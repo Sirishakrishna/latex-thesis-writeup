@@ -1,5 +1,10 @@
 # latex-thesis-writeup
 
+## Headings and subheadings
+```
+\section{<section name goes here....>}
+\subsection{<subsection name goes here...>}
+```
 ## Figures in Latex
 ```
 \begin{figure}[tb]
