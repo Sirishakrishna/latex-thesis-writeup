@@ -8,7 +8,7 @@
  \caption{Sample Tree}
  \label{fig:sampletreemdl}
 \end{figure} 
-
+```
 ## Lists in Latex
 
 ```
@@ -18,4 +18,4 @@
 \item item3
 ..........
 \end{itemize}
-
+```
